@@ -1,0 +1,14 @@
+{
+  "name": "sunabaco-sofe",
+  "version": "1.0.0",
+  "description": "sunabaco sofe 勤怠・シフト管理システム",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "bcryptjs": "^2.4.3",
+    "express-session": "^1.17.3"
+  }
+}
